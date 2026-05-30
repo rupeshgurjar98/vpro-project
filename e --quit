@@ -1,0 +1,341 @@
+[33mcommit 3e1dad25e2fe35c8a67bf9547f0a9d0b5b77175a[m[33m ([m[1;36mHEAD[m[33m)[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sat May 30 05:57:50 2026 +0530
+
+    Update bean-env.tf
+
+[33mcommit 99e89806ee8ce66df739c5b928371eee45a83672[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Apr 26 17:05:00 2026 +0530
+
+    Add files via upload
+
+[33mcommit 36bf8085d0969290820d6e63578f913a2b0178b2[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Apr 12 11:30:00 2026 +0530
+
+    dnf update
+
+[33mcommit d758716485e27f02d0386ea538838f4d9e648390[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Mar 29 13:45:00 2026 +0530
+
+    branch name change
+
+[33mcommit ac3e89bc7377af629c4284b65edf93955691ec43[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Mar 15 19:10:00 2026 +0530
+
+    branch update
+
+[33mcommit 92c64138b72414d03148eab4362d68dcec6c8a8c[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Mar 1 10:35:00 2026 +0530
+
+    rsync installation
+
+[33mcommit 750da13dfabb0d53e4e498f7a7d7a8809b1d4c63[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Feb 15 16:20:00 2026 +0530
+
+    jdk17 update
+
+[33mcommit 9649a1e9bbff30591ac0e8d86015ac43bcaaf6af[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Feb 1 11:10:00 2026 +0530
+
+    Maven version upgrade
+
+[33mcommit 28670a128baec895289f7d14c3eca9aea610a0a2[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Jan 18 18:30:00 2026 +0530
+
+    rmq username change
+
+[33mcommit 088eb890d7ae9626a5fe08dc87279a5777348f37[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Jan 4 09:40:00 2026 +0530
+
+    user details changes
+
+[33mcommit bf639631d11bdadc39e82788cd0e3df0d0d27bd6[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Dec 21 12:20:00 2025 +0530
+
+    version change
+
+[33mcommit 6cf99df57af9feeadafe0d6270b60c3a0283f289[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Dec 7 17:50:00 2025 +0530
+
+    UI upgrade
+
+[33mcommit 2c15d8663ae3832ebcbd08c545ab76d8d7480c16[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Nov 23 10:15:00 2025 +0530
+
+    upgrade ui
+
+[33mcommit 6ca8cad994dfee14922292eda68f697aad6be082[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Nov 9 14:25:00 2025 +0530
+
+    br update
+
+[33mcommit 1f5f8d7a64592828a4f39b67999d2e3c006aa613[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Oct 26 19:05:00 2025 +0530
+
+    upgradejdk17
+
+[33mcommit e8ab44f86c66da0bb7dd2f67c411376b9c1c92a3[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Oct 12 11:40:00 2025 +0530
+
+    Update Vagrantfile
+
+[33mcommit 934182e41c37fda5b47cfcb5968266fc4e89de87[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Sep 28 16:10:00 2025 +0530
+
+    Update Vagrantfile
+
+[33mcommit 9a247ac97ebca700b85623ad5d7eadd8caf80560[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Sep 14 10:55:00 2025 +0530
+
+    test ssh keys 43
+
+[33mcommit 661d1cf8962138048f1ae6d3fb909d1f1af8226b[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Aug 31 13:05:00 2025 +0530
+
+    test code
+
+[33mcommit db53354b8d21fc6c1d9f42b54b37a91d752ce69a[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Aug 24 18:20:00 2025 +0530
+
+    Add files via upload
+
+[33mcommit 55b8e20a63473199d8b6482f5a465743065bca91[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Aug 17 11:15:00 2025 +0530
+
+    Add files via upload
+
+[33mcommit 921d865f28f2cc39051baa9eb4b974c2c030062c[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Aug 10 15:35:00 2025 +0530
+
+    Add files via upload
+
+[33mcommit bcfa1967ee9d8ed43ac2989edd267b34ac85c305[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Aug 3 09:45:00 2025 +0530
+
+    Add files via upload
+
+[33mcommit c9c48ad6a501d9bab1202dd9bd93bb30120576fd[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Jul 27 20:10:00 2025 +0530
+
+    Update rabbitmq.sh
+
+[33mcommit 30b1dd24e32dc5f937bafb9865a4e686077d1b2a[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Jul 20 12:50:00 2025 +0530
+
+    Update mysql.sh
+
+[33mcommit 258ae7a1d1a26c90c3f3035f4c1f8f3c1c12a6cb[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Jul 13 17:15:00 2025 +0530
+
+    Update memcache.sh
+
+[33mcommit cb4f8600cb237cbe3463d5e236acba57bc9b5501[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Jul 6 10:40:00 2025 +0530
+
+    Add files via upload
+
+[33mcommit e0422ff22ebd3f870464389bc7effc92e1140a1b[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Jun 29 14:05:00 2025 +0530
+
+    Add files via upload
+
+[33mcommit 2181ea846c8fccec4050f554919e617818bbc7bf[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Jun 22 19:20:00 2025 +0530
+
+    Update mysql.sh
+
+[33mcommit c4c76bfaa8e13f3f5cf0f34eac79d528603f67df[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Jun 15 11:25:00 2025 +0530
+
+    Update mysql.sh
+
+[33mcommit f24763ad844dcc0055caa1a162ef2bdaa2abd805[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Jun 8 16:45:00 2025 +0530
+
+    hkh coder url update
+
+[33mcommit 5a74a5a7cf1f1b48f4ca7ce83f75e412bdf97d3f[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Jun 1 09:10:00 2025 +0530
+
+    Setup doc
+
+[33mcommit 6654941330989fec0828c79f94d49b58593e87ff[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun May 25 13:30:00 2025 +0530
+
+    Delete VprofileProjectSetupWindowsAndMacIntel.pdf
+
+[33mcommit 825462f08dbbac68d8c42efbfb9f68c2bb9067df[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun May 18 18:15:00 2025 +0530
+
+    Setup Doc
+
+[33mcommit 1b0a86811d371bd3b09c0175538d9aebc480f955[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun May 11 10:20:00 2025 +0530
+
+    Delete VprofileProjectSetupMacM1.pdf
+
+[33mcommit 252aefab4181d02891574d6e9366e3c6731924f3[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun May 4 15:40:00 2025 +0530
+
+    Delete VprofileProjectSetupMacM1M2.pdf
+
+[33mcommit bf02a55e545c3c0f50231150cb031228438b5c32[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Apr 27 11:05:00 2025 +0530
+
+    Setup Doc for Windows & Mac intel
+
+[33mcommit 002392e94a644bf700bf220499aef3780f7104b5[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Apr 20 17:25:00 2025 +0530
+
+    Delete VprofileProjectSetupWindowsMacIntel.pdf
+
+[33mcommit cf4674dd5c994fca3b380d39bc984881f99ce0e1[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Apr 13 09:35:00 2025 +0530
+
+    Setup Doc for Windows & Mac intel
+
+[33mcommit 2ee391080bd1291e23f84b31407b497164156f06[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Apr 6 14:50:00 2025 +0530
+
+    Delete VprofileProjectSetupWindowsMacIntel.pdf
+
+[33mcommit 51b63c8858e061196e0643fed85d277de5a09fac[m
+Author: hkhcoder <137309866+hkhcoder@users.noreply.github.com>
+Date:   Thu Jun 22 20:03:40 2023 +0530
+
+    Setup Doc for Windows & Mac Intel
+
+[33mcommit 68d88cda697438d6d24c726d0b37a983d9d41ceb[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Mar 23 18:45:00 2025 +0530
+
+    Setup doc for mac M1M2
+
+[33mcommit 3be50d1a5f54afe6f9018eac9ec1e39a6f722d5e[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Mar 16 12:15:00 2025 +0530
+
+    Delete VprofileProjectSetupWinMacIntel.md
+
+[33mcommit 9c27bdd2f17f82adeb1c2f84a40f5a1889b9e51d[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Mar 9 15:30:00 2025 +0530
+
+    Update VprofileProjectSetupWinMacIntel.md
+
+[33mcommit ac5ff75b63f3a9f07d41dfe3ba3a6cd6705b7350[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Mar 2 09:50:00 2025 +0530
+
+    Create VprofileProjectSetupWinMacIntel.md
+
+[33mcommit f162bb575b79aaa1c5527bd60ca43c493729010e[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Feb 23 20:05:00 2025 +0530
+
+    Delete VprofileProjectSetupWindows.pdf
+
+[33mcommit 8298c33f4bb35475032877a36b60ebf1f047fa75[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Feb 16 11:20:00 2025 +0530
+
+    Ordered IP
+
+[33mcommit 69350334fc88864b0890436aaa2e72fbfda5d782[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Feb 9 17:40:00 2025 +0530
+
+    Delete VprofileProjectSetuponMACOSM1.pdf
+
+[33mcommit 2a1b2db7cf41d2bb653f08701bb3ff176f59391e[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Feb 2 13:10:00 2025 +0530
+
+    Add files via upload
+
+[33mcommit 691633e0180f04e748e2fd55bb1c853839a8db4e[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Jan 26 19:15:00 2025 +0530
+
+    Add files via upload
+
+[33mcommit b15b6281c085c4d85b8386c7f3754dff912ab45b[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Jan 19 10:45:00 2025 +0530
+
+    Delete VprofileProjectSetup.pdf
+
+[33mcommit e3fa89025025ecb892cf1eb2f0dd8a1213d66112[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Jan 12 16:25:00 2025 +0530
+
+    Add files via upload
+
+[33mcommit 3375ec32a00400bf3f92d3f6fcafad0313fceb0e[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Jan 5 09:30:00 2025 +0530
+
+    Update README.md
+
+[33mcommit d117dbe147f331b5c5d082ddb15e18c96e0a76f7[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Dec 29 18:10:00 2024 +0530
+
+    Update README.md
+
+[33mcommit 5ffcdbbdddb180ae2d4845c4a1347c6ce6141cec[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Dec 22 11:40:00 2024 +0530
+
+    Update README.md
+
+[33mcommit b31be148bb36f6669249f7eab6d94667bc8ebf05[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Dec 15 14:20:00 2024 +0530
+
+    chnaged repo url in scripts
+
+[33mcommit 787c00d29c95cbbd180f58588bbd9468c9bbc482[m
+Author: Rg coder <jip28305@gmail.com>
+Date:   Sun Dec 8 10:15:00 2024 +0530
+
+    first commit
